@@ -1,0 +1,23 @@
+div {
+    max-width: 400px;
+    padding: 10px;
+
+}
+input {
+    margin: 5px;
+}
+legend {
+    background-color: greenyellow;
+    color: white;
+}
+.szemelyes {
+    background-color: lightblue;
+    color: blue;
+}
+fieldset {
+    background-color: lightcyan;
+    border: solid lightblue 2px;
+}
+.belso {
+    background-color: white;
+}
